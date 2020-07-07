@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Quadrate Tech School
 
-You can use the [editor on GitHub](https://github.com/nirzaf/q-blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Quadrate Tech School is a complete free virtual Academy to learn new programming languages and other skills are which required by the IT industry, Quadrate Tech School is completely free for everyone & sponsored by Quadrate Tech Solutions to contribute to the growth of local IT community and share the knowledge with international Software Developers, all our content creators and virtual lecturers are providing volunteer service or paid by Quadrate Tech Solutions
 
 ### Markdown
 
