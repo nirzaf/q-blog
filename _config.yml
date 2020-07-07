@@ -1,1 +1,32 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Welcome to Quadrate Tech School
+email: quadratesolutions@gmail.com
+description: Quadrate Tech School is a complete free virtual Academy to learn new programming languages and other skills are which required by the IT industry, Quadrate Tech School is completely free for everyone & sponsored by Quadrate Tech Solutions to contribute to the growth of local IT community and share the knowledge with international Software Developers, all our content creators and virtual lecturers are providing volunteer service or paid by Quadrate Tech Solutions
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://quadrate.lk" # the base hostname & protocol for your site, e.g. http://example.com
 theme: jekyll-theme-midnight
+
+plugins:
+  - jekyll-feed
+
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
